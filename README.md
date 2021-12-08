@@ -1,7 +1,7 @@
 ## Daily practise cpp problems
 <br>
-<img src="work.png" alt="output" width="100px" height="100px"> 
-<span> <img src="code.png" alt="output" width="100px" height="100px"></span>
+<center><img src="work.png" alt="output" width="300px" height="300px"> </center>
+<!--<span> <img src="code.png" alt="output" width="100px" height="100px"></span>-->
 
 <br><br>
 
