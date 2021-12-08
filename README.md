@@ -28,7 +28,7 @@
 
 ## 📌 Tech Stack:
 <br><br>
-[![C++](https://img.shields.io/badge/C++5%20-%23E34F26.svg?&style=for-the-badge&logo=C++&logoColor=white)]
+[![C++](https://img.shields.io/badge/C++%20-%23E34F26.svg?&style=for-the-badge&logo=C++&logoColor=white)]
 
 <br><br>
 
