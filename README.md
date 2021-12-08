@@ -1,5 +1,8 @@
 ## Daily practise cpp problems
 <br>
+<img src="work.png" alt="output" width="200px" height="200px"> &nbsp; <img src="code.png" alt="output" width="200px" height="200px">
+<br><br>
+
 
 <h2> Content of this project:</h2> 
 <br><br>
