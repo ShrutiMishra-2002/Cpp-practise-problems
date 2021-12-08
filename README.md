@@ -3,6 +3,9 @@
 
 <h2> Content of this project:</h2> 
 <br><br>
+
+## Table of content
+
 |Sr.no| Program name                | Types |
 | -   | -                           | -     |
 | 1. | add two nos                  | basic |
@@ -28,7 +31,7 @@
 
 ## 📌 Tech Stack:
 <br><br>
-[![C++](https://img.shields.io/badge/C++%20-%23E34F26.svg?&style=for-the-badge&logo=C++&logoColor=white)]
+![C++](https://img.shields.io/badge/C++%20-%23E34F26.svg?&style=for-the-badge&logo=C++&logoColor=white)
 
 <br><br>
 
