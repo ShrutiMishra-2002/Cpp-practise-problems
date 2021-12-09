@@ -31,6 +31,9 @@
 | 16.| multiplication table of a no | loop |
 | 17.| lcm of a no                  | loop |
 | 18.| gcd of a no                  | loop |
+| 19.| prime no or no               | loop |
+| 20.| palindrome no                | loop |
+
 
 <br><br>
 
