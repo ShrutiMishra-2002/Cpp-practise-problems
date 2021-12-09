@@ -7,10 +7,10 @@ int main()
   cin>>n;
   while(n>0)
   {
-    rem=n%10;
+    rem=n%10;/*remainder*/
     rev= rev*10+rem;
-    n=n/10;
-    
+    n=n/10;/*quotient*/
+
   }
     cout<<n<<"reverse"<<"="<<rev<<"\n";
 
