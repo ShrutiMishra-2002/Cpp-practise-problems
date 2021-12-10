@@ -1,21 +1,22 @@
 #include<iostream>
+#include<string.h>
 using namespace std;
 int main()
 {
-  int i,n,store,rev,rem;
-  cout<<"enter a no to check";
-  cin>>n;
-  store=n;
-  for(i=1;i>0;)
+  char a[100],b[100];
+  cout<<"enter a no to check"<<"\n";
+  cin>>a;
+  /*for(i=1;i<=0;i++)
   {
   rem=n%10;
   rev=rev*10+rem;
   n=n/10;
-  }
-  cout<<"reverse is"<<rev<<"\n";
-  if(store==rev)
-  cout<<"palindrome no"<<store;
+  }*/
+  strcpy(b,a);
+  strrev(b);
+  if(strcmp(a,b)==0)
+  cout<<"palindrome no"<<b;
   else 
-  cout<<"not palindrome no"<<store;
+  cout<<"not palindrome no"<<b;
 
 }
