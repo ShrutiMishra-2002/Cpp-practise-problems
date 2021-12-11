@@ -37,6 +37,8 @@
 | 20.| solid rectangle star         | pattern |
 | 21.| right angle triangle star    | pattern |
 | 22.| right angle inverted triangle star| pattern |
+| 23.| pyramid star                 | pattern |
+| 24.| inverted pyramid star        | pattern |
 
 
 <br><br>
