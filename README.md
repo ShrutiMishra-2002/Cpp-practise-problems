@@ -35,6 +35,8 @@
 | 20.| palindrome no                | loop |
 | 21.| calculator                   | switchcase |
 | 20.| solid rectangle star         | pattern |
+| 21.| right angle triangle star    | pattern |
+| 22.| right angle inverted triangle star| pattern |
 
 
 <br><br>
