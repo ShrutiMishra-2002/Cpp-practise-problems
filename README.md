@@ -33,6 +33,8 @@
 | 18.| gcd of a no                  | loop |
 | 19.| prime no or no               | loop |
 | 20.| palindrome no                | loop |
+| 21.| calculator                   | switchcase |
+| 20.| solid rectangle star         | pattern |
 
 
 <br><br>
