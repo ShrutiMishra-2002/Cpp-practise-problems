@@ -39,7 +39,8 @@
 | 22.| right angle inverted triangle star| pattern |
 | 23.| pyramid star                 | pattern |
 | 24.| inverted pyramid star        | pattern |
-
+| 24.| left right angle triangle with no | pattern |
+| 24.| pascal triangle              | pattern |
 
 <br><br>
 
