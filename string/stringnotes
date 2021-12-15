@@ -1,0 +1,11 @@
+ascii code:-
+A= 65 TO Z= 90
+a=97 to z= 122
+to convert from small to big:-
+97-65=32
+98-66=32
+
+32 bit so for converting we can see subtract 32 to make big from small
+
+32 bit so for converting we can see add 32 to make small from big 
+
