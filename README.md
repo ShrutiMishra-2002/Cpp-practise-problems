@@ -46,6 +46,7 @@
 | 29.| toggle case                  | string |
 | 30.| change case big to small     | string |
 | 31.| change case small to big     | string |
+| 32.| counting vowel,consonants,space and words| string |
 
 <br><br>
 
