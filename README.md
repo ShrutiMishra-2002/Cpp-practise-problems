@@ -41,7 +41,12 @@
 | 24.| inverted pyramid star        | pattern |
 | 25.| left right angle triangle with no | pattern |
 | 26.| pascal triangle              | pattern |
-| 27.| Hallow rectangle             | pattern |
+| 27.| finding string length        | string |
+| 28.| finding string length using inbuilt function| string |
+| 29.| toggle case                  | string |
+| 30.| change case big to small     | string |
+| 31.| change case small to big     | string |
+
 <br><br>
 
 ## 📌 Tech Stack:
