@@ -48,6 +48,8 @@
 | 31.| change case small to big     | string |
 | 32.| counting vowel,consonants,space and words| string |
 | 33.| validate a string            | string |
+| 34.| reverse a string using inbuilt function          | string |
+| 35.| reverse a string using reverse function          | string |
 
 <br><br>
 
