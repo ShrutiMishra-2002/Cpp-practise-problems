@@ -8,6 +8,7 @@ int validate(char str[10])
     gets(str);
     for(i=0;str[i]!='\0';i++)
     {
+        /*48 to 57 is ascii code for nos*/
         if(!(str[i]>=65 && str[i]<=90)&&!(str[i]>=97 && str[i]<=122)&&!(str[i]>=48 && str[i]<=57))
          return 0;
     }
