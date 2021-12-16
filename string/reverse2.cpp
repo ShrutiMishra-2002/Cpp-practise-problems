@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {   
     /*here we are using string instead of char as string function can only be used on string type */
+    /*for taking a string from user we need to use cin not gets()*/
     string str;
     int i;
     cout<<"enter string to check"<<" ";
