@@ -52,6 +52,8 @@
 | 35.| reverse a string using reverse function          | string |
 | 36.| compare a string using compare function          | string |
 | 37.| remove duplicate from a string | string |
+| 38.| valid parentheses            | stack |
+
 <br><br>
 
 ## 📌 Tech Stack:
