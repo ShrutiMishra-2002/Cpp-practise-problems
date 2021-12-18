@@ -51,6 +51,7 @@
 | 34.| reverse a string using inbuilt function          | string |
 | 35.| reverse a string using reverse function          | string |
 | 36.| compare a string using compare function          | string |
+| 37.| remove duplicate from a string | string |
 <br><br>
 
 ## 📌 Tech Stack:
