@@ -53,6 +53,10 @@
 | 36.| compare a string using compare function          | string |
 | 37.| remove duplicate from a string | string |
 | 38.| valid parentheses            | stack |
+| 39.| max and min no in array         | array |
+| 40.| swap alternate            | array |
+| 41.| binary to decimal            | conversion |
+| 42.| decimal to binary         | conversion |
 
 <br><br>
 
