@@ -15,7 +15,9 @@ int main()
     // while (no > 0)
     {
         rem = no % 10;
-        ans = ans + (rem * rem * rem);
+        // both pow and (rem*rem*rem) working properly
+        // ans = ans + (rem * rem * rem);
+        ans= ans + pow(3,no);
         no = no / 10;
     }
     if (ans == temp)

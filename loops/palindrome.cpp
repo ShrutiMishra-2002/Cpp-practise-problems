@@ -15,8 +15,9 @@ int main()
   strcpy(b,a);
   strrev(b);
   if(strcmp(a,b)==0)
+  // if(a == b)
   cout<<"palindrome no"<<b;
   else 
   cout<<"not palindrome no"<<b;
-
+  return 0;
 }
