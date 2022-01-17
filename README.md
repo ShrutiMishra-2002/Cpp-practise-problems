@@ -57,6 +57,9 @@
 | 40.| swap alternate            | array |
 | 41.| binary to decimal            | conversion |
 | 42.| decimal to binary         | conversion |
+| 43.| unique elments in array using xor            | array |
+| 44.| unique elments in array using for loop            | array |
+
 
 <br><br>
 
