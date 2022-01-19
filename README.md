@@ -59,8 +59,8 @@
 | 42.| decimal to binary         | conversion |
 | 43.| unique elments in array using xor            | array |
 | 44.| unique elments in array using for loop            | array |
-
-
+| 45.| add two matrix            | array |
+| 46.| union and intersection of two matrix            | array |
 <br><br>
 
 ## 📌 Tech Stack:
