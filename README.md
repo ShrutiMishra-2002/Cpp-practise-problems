@@ -61,6 +61,9 @@
 | 44.| unique elments in array using for loop            | array |
 | 45.| add two matrix            | array |
 | 46.| union and intersection of two matrix            | array |
+| 47.| structure practice           | structure |
+| 48.| pointer practice           | pointer |
+
 <br><br>
 
 ## 📌 Tech Stack:
