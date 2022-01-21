@@ -63,6 +63,9 @@
 | 46.| union and intersection of two matrix            | array |
 | 47.| structure practice           | structure |
 | 48.| pointer practice           | pointer |
+| 49.| stack implementation           | stack |
+| 50.| queue implementation           | queue |
+
 
 <br><br>
 
