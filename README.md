@@ -65,7 +65,9 @@
 | 48.| pointer practice           | pointer |
 | 49.| stack implementation           | stack |
 | 50.| queue implementation           | queue |
-
+| 51.| lcm         | loop |
+| 52.| hcf         | loop |
+| 53.| gcd        | loop |
 
 <br><br>
 
