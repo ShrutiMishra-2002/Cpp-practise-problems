@@ -68,6 +68,8 @@
 | 51.| lcm         | loop |
 | 52.| hcf         | loop |
 | 53.| gcd        | loop |
+| 54.| balanced parentheses using stack         | stack |
+
 
 <br><br>
 
