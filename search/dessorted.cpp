@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+// descending sorted array
 int binarysearch(int arr[],int n,int search)
 // if you initialize some parameter in function above 
 // don't initialize it down here 
