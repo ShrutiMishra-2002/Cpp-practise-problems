@@ -1,6 +1,6 @@
 ## Daily practise cpp problems
 <br>
-<center><img src="work.png" alt="output" width="300px" height="300px"> </center>
+<div align="center"><img src="work.png" alt="output" width="300px" height="300px"> </div>
 <!--<span> <img src="code.png" alt="output" width="100px" height="100px"></span>-->
 
 <br><br>
