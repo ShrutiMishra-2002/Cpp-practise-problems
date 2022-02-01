@@ -69,6 +69,10 @@
 | 52.| hcf         | loop |
 | 53.| gcd        | loop |
 | 54.| balanced parentheses using stack         | stack |
+| 55.| binary search        | bs |
+| 56.| descending sorted array         | bs |
+| 57.| agnostic binary search         | bs |
+
 
 
 <br><br>
