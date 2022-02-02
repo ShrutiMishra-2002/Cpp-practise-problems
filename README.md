@@ -72,6 +72,12 @@
 | 55.| binary search        | bs |
 | 56.| descending sorted array         | bs |
 | 57.| agnostic binary search         | bs |
+| 58.| find missing no in array         |array |
+| 59.| last and first element in an array        | bs |
+| 60.| matrix multiplication of 2 matrix        | array |
+
+
+
 
 
 
