@@ -4,7 +4,9 @@
 <!--<span> <img src="code.png" alt="output" width="100px" height="100px"></span>-->
 
 <br><br>
-
+<!-- // if you initialize some parameter in function above 
+// don't initialize it down here 
+ -->
 
 <h2> Content of this project:</h2> 
 <br><br>

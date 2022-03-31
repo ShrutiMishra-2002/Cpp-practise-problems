@@ -1,26 +1,26 @@
-#include<bits/stdc++.h>
+// #include<bits/stdc++.h>
+#include<iostream>
+#include<conio.h>
 using namespace std;
 int binarysearch(int arr[],int n,int search)
-// if you initialize some parameter in function above 
-// don't initialize it down here 
 {
     int a=0,z=n-1,mid;
     while(a<=z)
     {
         mid= a+ (z-a)/2;
-        // to control overflow condition
         if(search==arr[mid])
         {
             return mid;
         }
-        else if(search<=arr[mid])
+        else if(search>arr[mid])
         {
-            z=mid-1;
+            a=mid+1;
+
         }
         else
-        {
-            
-            a=mid+1;
+        { 
+            z=mid-1;
+
         }
 
     }
@@ -29,9 +29,16 @@ int binarysearch(int arr[],int n,int search)
 }
 int main()
 {
-    int n=5, a=0,z=n-1,mid,search,found,i;
-    int arr[n]={1,2,3,4,5};
-    cout<<"item to be searched"<<" ";
+    int n,arr[100], a=0,z=n-1,mid,search,found,i;
+    // int arr[n]={1,2,3,4,5};
+    cout<<"enter no of elements"<<" ";
+    cin>>n;
+    cout<<"enter array elements"<<"\n";
+    for(i=0;i<n;i++)
+    {
+        cin>>arr[i];
+    }
+    cout<<"item to be searched"<<" \n";
     cin>>search;
     found=binarysearch(arr,n,search);
     if(found==-1)
